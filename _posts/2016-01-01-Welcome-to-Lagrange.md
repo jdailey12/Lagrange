@@ -4,8 +4,8 @@ title: "Welcome to Lagrange!"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: mountains.jpg
-  teaser: mountains-teaser.jpg
+  feature: http://www.fsd.mw.tum.de/wp-content/uploads/INTESUS_Testbench_Complete.jpg
+  teaser: http://www.fsd.mw.tum.de/wp-content/uploads/INTESUS_Testbench_Complete.jpg
   credit: Death to Stock Photo
   creditlink: ""
 ---
