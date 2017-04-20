@@ -4,8 +4,8 @@ title: "Welcome to Lagrange!"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: http://www.fsd.mw.tum.de/wp-content/uploads/INTESUS_Testbench_Complete.jpg
-  teaser: http://www.fsd.mw.tum.de/wp-content/uploads/INTESUS_Testbench_Complete.jpg
+  feature: testing.jpg
+  teaser: testing.jpg
   credit: Death to Stock Photo
   creditlink: ""
 ---
