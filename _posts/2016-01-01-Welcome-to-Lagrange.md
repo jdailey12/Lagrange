@@ -5,7 +5,7 @@ categories: journal
 tags: [documentation,sample]
 image:
   feature: testing.jpg
-  teaser: testing.jpg
+  teaser: testing-teaser.jpg
   credit: Death to Stock Photo
   creditlink: ""
 ---
